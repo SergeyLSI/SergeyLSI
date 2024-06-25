@@ -38,12 +38,11 @@
 *   [Сертификат о прохождении курса КИПиА, Прикладной курс АСУ ТП, Программирование ПЛК на языках FBD,ST,LD от ООО Громов ПЛК ](https://drive.google.com/file/d/1bclNVy261MJdnJPbyduJvOFQgEGpjCkQ/view?usp=sharing)
 *    [Сертификат о прохождении курса Диспетчеризация АСУ ТП на языке С++  в среде QT Creator от ООО Громов ПЛК ](https://drive.google.com/file/d/1TXdzSVplytiDJ6B0xG2N5dJUmHJ98wGf/view?usp=sharing)
 ### Skills
-
-<p align="left">
-<img src="https://github.com/SergeyL1L/SergeyL1L/blob/main/Screenshot.png" />
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+</div>
 
 
 </p>
