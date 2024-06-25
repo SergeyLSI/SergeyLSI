@@ -21,22 +21,13 @@
 *  расчет + проект внутреннего и наружного освещеиня для любых объектов
 
 🧠   Мои сертификаты
-*   [Введение в сетевые технологии](https://drive.google.com/file/d/1mNREj8CkBI57CL8Ahu7vwWhfNkQ7w7pD/view?usp=sharing)
-*   [Основы коммутации и маршрутизации](https://drive.google.com/file/d/1oA61nWZqi82DxuIcFqWT0H0HHQmGNxPC/view?usp=sharing)
-*   [Основы автоматизированных систем](https://drive.google.com/file/d/1H5jsySzfrWAX68SCE48zFd7pISki57eU/view?usp=sharing)
-*   [SCADA-системы](https://drive.google.com/file/d/1X6Cjx95JOTaXmpAIX85aA178qApQL89E/view?usp=share_link)
-*   [Администрирование систем](https://drive.google.com/file/d/1vL_y4YPJvbewCpfN1S8gC4-I4lwNyrrF/view?usp=sharing)
-*   [Аппаратное обеспечение (Hardware)](https://drive.google.com/file/d/1Kr5To9JD4t94G8zwsEIFP5mwJ7ZZsdwo/view?usp=sharing)
-*   [Программирование ПЛК](https://drive.google.com/file/d/15Q-NXlJwgUA9_2t9I05Fm1Ma1Wrm_tPW/view?usp=sharing)
-*   [Взаимодействие со смежными системами](https://drive.google.com/file/d/1q2-gBrGT3zRH6mWSSeJWFIrRqfq8Xs-F/view?usp=sharing)
-*   [Документация и типовые решения для АСУ ТП](https://drive.google.com/file/d/1YaqnT6pOSO-tGUz4BDveFgZXfA1bz5cp/view?usp=sharing)
+*   [Сертификат о прохождении курса КИПиА, Прикладной курс АСУ ТП, Программирование ПЛК на языках FBD,ST,LD от ООО Громов ПЛК ](https://drive.google.com/file/d/1bclNVy261MJdnJPbyduJvOFQgEGpjCkQ/view?usp=sharing)
+*    [Сертификат о прохождении курса Диспетчеризация АСУ ТП на языке С++  в среде QT Creator от ООО Громов ПЛК ](https://drive.google.com/file/d/1TXdzSVplytiDJ6B0xG2N5dJUmHJ98wGf/view?usp=sharing)
 
 
 🤝 Мои дипломы
-*   [Свидетельство об обучении в Нетологии](https://drive.google.com/file/d/1y5Slgp4SDjbLlHpHdUhWle35LI-Mghhe/view?usp=sharing)
 *   [Диплом Нетологии](https://drive.google.com/file/d/1qvJKvS-tDPiIXUygMa54Vg2B8f1YRd_4/view?usp=sharing)
-*   [Сертификат о прохождении курса КИПиА, Прикладной курс АСУ ТП, Программирование ПЛК на языках FBD,ST,LD от ООО Громов ПЛК ](https://drive.google.com/file/d/1bclNVy261MJdnJPbyduJvOFQgEGpjCkQ/view?usp=sharing)
-*    [Сертификат о прохождении курса Диспетчеризация АСУ ТП на языке С++  в среде QT Creator от ООО Громов ПЛК ](https://drive.google.com/file/d/1TXdzSVplytiDJ6B0xG2N5dJUmHJ98wGf/view?usp=sharing)
+
 ### Skills
 <p align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
